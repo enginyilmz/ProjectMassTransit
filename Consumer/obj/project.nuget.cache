@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjomXP+txvv52REOs4TaBqrvnv9inkg86/Z6TIoKT4c+hwqahm7eKgODEPjE03spqdhQLy6RrL/5Kvz4emfFBw==",
+  "success": true,
+  "projectFilePath": "/Users/enginyilmaz/Projects/Consumer/Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/enginyilmaz/.nuget/packages/masstransit/8.0.6/masstransit.8.0.6.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/masstransit.abstractions/8.0.6/masstransit.abstractions.8.0.6.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/masstransit.rabbitmq/8.0.6/masstransit.rabbitmq.8.0.6.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.18/microsoft.extensions.configuration.abstractions.3.1.18.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.18/microsoft.extensions.dependencyinjection.abstractions.3.1.18.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/3.1.18/microsoft.extensions.diagnostics.healthchecks.3.1.18.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.18/microsoft.extensions.diagnostics.healthchecks.abstractions.3.1.18.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.18/microsoft.extensions.fileproviders.abstractions.3.1.18.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/microsoft.extensions.hosting.abstractions/3.1.18/microsoft.extensions.hosting.abstractions.3.1.18.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.18/microsoft.extensions.logging.abstractions.3.1.18.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/microsoft.extensions.options/3.1.18/microsoft.extensions.options.3.1.18.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/microsoft.extensions.primitives/3.1.18/microsoft.extensions.primitives.3.1.18.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/system.text.json/6.0.2/system.text.json.6.0.2.nupkg.sha512",
+    "/Users/enginyilmaz/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
